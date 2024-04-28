@@ -1,4 +1,10 @@
 {
+  
+    "name": "Nigger",
+    "description": "Description here",
+    "locations": {
+
+
     "cs_agency": [
       {
         "name": ["Inside", "Back Hall"],
@@ -145716,3 +145722,4 @@
       }
     ]
   }
+}
